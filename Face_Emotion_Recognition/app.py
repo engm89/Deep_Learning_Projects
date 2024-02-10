@@ -5,8 +5,7 @@ import numpy as np
 import os
 import cv2
 
-
-model = models.load_model('.\Face_Emotion_Recognition\model_01.h5')
+model = models.load_model('./model_01.h5')
 
 st.header('Human Emotion Recongition')
 img_path = st.text_input('uploda an image')
