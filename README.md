@@ -7,3 +7,7 @@ collection of deep learning projects with TensorFlow and PyTorch.
 |Face Emotion Recognition | TensorFlow | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Face_Emotion_Recognition)    |
 |Face Mask Detection | TensorFlow | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Face-Mask_Detection)    |
 |Fruits Vegetables Classification | TensorFlow | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/fruits_vegetables_classification)    |
+|Flower Classification | TensorFlow | Completed |  [🔗](https://github.com/engm89/Machine_Learning_Projects/tree/main/Flower_Classification)    |
+
+
+
